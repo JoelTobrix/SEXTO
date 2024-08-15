@@ -1,0 +1,8 @@
+Name: Joel Brito     Semester: 6to
+Ejercicio
+Usted debe generar el código necesario para poder realizar las operaciones transaccionales básicas de base de datos (CRUD) en PHP, para lo cual debe realizar el o los modelos y controladores.
+1. Sistema de Gestión de Biblioteca: Diseña una base de datos para gestionar libros y autores, incluyendo las relaciones entre ellos. Tablas: `Libros` (libro_id, titulo, genero, fecha_publicacion, isbn), `Autores` (autor_id, nombre, apellido, fecha_nacimiento, nacionalidad).
+ LINKS
+ http://localhost/parcial/controllers/libros.controller.php?op=todos
+ http://localhost/parcial/controllers/autores.controller.php?op=todos
+ 
