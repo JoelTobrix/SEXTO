@@ -1,0 +1,5 @@
+Process instalations
+1.-Node.js
+2.-Angular
+3.-pnpm
+Direccionar ruta de proyecto
